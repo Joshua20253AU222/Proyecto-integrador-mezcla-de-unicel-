@@ -7,11 +7,16 @@ El proyecto se enfoca en hacer una mezcla basada principalmente en unicel para l
 
 El proyecto se divide en 3 sistemas clave:
 
--Sistema de triturado:
-Se encarga de triturar el unicel y alamacenarlo en una tolva para su posterior uso.
 
--Sistema de mesurado:
-Se encarga de cuantificar y dosificar los materiales necesarios para hacer la mezcla.
+<ol>
+<li>Sistema de triturado:</li>
+<i>Se encarga de triturar el unicel y alamacenarlo en una tolva para su posterior uso.</i>
 
--Sistema de Mezclado:
-Se encarga de mezclar los materiales para obtener la mezcla final.
+<li>Sistema de mesurado:</li>
+<i>Se encarga de cuantificar y dosificar los materiales necesarios para hacer la mezcla.</i>
+
+<li>Sistema de Mezclado:</li>
+<i>Se encarga de mezclar los materiales para obtener la mezcla final.</i>
+
+</ol>
+
